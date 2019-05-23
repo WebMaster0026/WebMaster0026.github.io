@@ -1,21 +1,9 @@
 #EXTM3U
-#EXTINF:0,Суперсемейка 2 США (2018)
-https://edge17.streamguard.cc/sec/1558590690/33323234bc28ae040deea7066b449f8c16a55f30c26944f9/ivs/a5/64/d99fbaaa24ee/hls/tracks-3,5/index.m3u8
-#EXTINF:0,Суперсемейка 2 v2 США (2018)
-https://hls.kinokrad.co/hls/Incredibles.2.2018.HDRip/playlist.m3u8
+#EXTINF:0,Монстры на каникулах 3 Море зовёт США (2018)
+https://edge20.streamguard.cc/sec/1558676586/35373039f98447987b516d68268e3fee1ce9b75fc594f0cd/ivs/7b/7e/4ba5c20e8836/hls/tracks-3,5/index.m3u8
 #EXTINF:0,Фердинанд США (2017)
 http://hls.kinoplayer.co/hls/Ferdinand.2017.BDRip/playlist.m3u8
-#EXTINF:0,Босс-молокосос США (2017)
-https://hls.kinokrad.co/hls/Boss.Molokosos.2017.HDRip/playlist.m3u8
-#EXTINF:0,Моана США (2016)
-https://bk2-hls.kinokrad.co/hls/Moana.2016.HDRip/playlist.m3u8
-#EXTINF:0,Гринч США Китай (2018)
-https://hls.kinokrad.co/hls/The.Grinch.2018.BDRip/playlist.m3u8
-#EXTINF:0,Смолфут США  (2018)
-https://hls.kinokrad.co/hls/Smallfoot.2018.BDRip/playlist.m3u8
-#EXTINF:0,Монстры на каникулах 2 США (2015)
-https://bk2-hls.kinokrad.co/hls/Monstri.na.Kanikulah.2015.HDRip/playlist.m3u8
-#EXTINF:0,Монстры на каникулах 3 Море зовёт США (2018)
+#EXTINF:0,Монстры на каникулах 3 Море зовёт v2 США (2018)
 https://hls.kinokrad.co/hls/Hotel.Transylvania.3.HDRip/playlist.m3u8
 #EXTINF:0,Гадкий я 3 США (2017)
 https://hls.kinokrad.co/hls/GaDkiy.Ya.3.2017.D.BDRip/playlist.m3u8
@@ -273,6 +261,18 @@ https://hls.kinokrad.co/hls/Trolli.2016.HDRip/playlist.m3u8
 https://hls.kinokrad.co/hls/Zveropolis.2016.HDRip/playlist.m3u8
 #EXTINF:0,Папа мама гусь США Китай (2018)
 https://hls.kinokrad.co/hls/Duck.Duck.Goose.2018HDrip/playlist.m3u8
+#EXTINF:0,Суперсемейка 2 v2 США (2018)
+https://hls.kinokrad.co/hls/Incredibles.2.2018.HDRip/playlist.m3u8
+#EXTINF:0,Босс-молокосос США (2017)
+https://hls.kinokrad.co/hls/Boss.Molokosos.2017.HDRip/playlist.m3u8
+#EXTINF:0,Моана США (2016)
+https://bk2-hls.kinokrad.co/hls/Moana.2016.HDRip/playlist.m3u8
+#EXTINF:0,Гринч США Китай (2018)
+https://hls.kinokrad.co/hls/The.Grinch.2018.BDRip/playlist.m3u8
+#EXTINF:0,Смолфут США  (2018)
+https://hls.kinokrad.co/hls/Smallfoot.2018.BDRip/playlist.m3u8
+#EXTINF:0,Монстры на каникулах 2 США (2015)
+https://bk2-hls.kinokrad.co/hls/Monstri.na.Kanikulah.2015.HDRip/playlist.m3u8
 #EXTINF:0,Головоломка США (2015)
 https://bk2-hls.kinokrad.co/hls/Golovolomka.2015.HDRip/playlist.m3u8
 #EXTINF:0,Реальная белка Канада США Южная Корея (2014)
