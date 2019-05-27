@@ -1,11 +1,7 @@
 #EXTM3U
-#EXTINF:0,Фердинанд США (2017)
-https://edge21.streamguard.cc/sec/1558935599/383435319e93f09624707fdea38db34d72af47532b68ce7b/ivs/c7/9f/baaff9db75c3/hls/tracks-3,5/index.m3u8
-#EXTINF:0,Фердинанд v2 США (2017)
-http://hls.kinoplayer.co/hls/Ferdinand.2017.BDRip/playlist.m3u8
-#EXTINF:0,Монстры на каникулах 3 Море зовёт США (2018)
-https://hls.kinokrad.co/hls/Hotel.Transylvania.3.HDRip/playlist.m3u8
 #EXTINF:0,Гадкий я 3 США (2017)
+https://edge12.streamguard.cc/sec/1559022504/32303537f9eb858f23ad311b32e6a55a3b392d377da82d60/ivs/6b/8c/8e697804b0ec/hls/tracks-2,5/index.m3u8
+#EXTINF:0,Гадкий я 3 v2 США (2017)
 https://hls.kinokrad.co/hls/GaDkiy.Ya.3.2017.D.BDRip/playlist.m3u8
 #EXTINF:0,Кунг-фу Панда 3 США (2016)
 https://bk2-hls.kinokrad.co/hls/KungFu.Panda.2016.3.HDRip/playlist.m3u8
@@ -273,6 +269,10 @@ https://hls.kinokrad.co/hls/The.Grinch.2018.BDRip/playlist.m3u8
 https://hls.kinokrad.co/hls/Smallfoot.2018.BDRip/playlist.m3u8
 #EXTINF:0,Монстры на каникулах 2 США (2015)
 https://bk2-hls.kinokrad.co/hls/Monstri.na.Kanikulah.2015.HDRip/playlist.m3u8
+#EXTINF:0,Фердинанд США (2017)
+http://hls.kinoplayer.co/hls/Ferdinand.2017.BDRip/playlist.m3u8
+#EXTINF:0,Монстры на каникулах 3 Море зовёт США (2018)
+https://hls.kinokrad.co/hls/Hotel.Transylvania.3.HDRip/playlist.m3u8
 #EXTINF:0,Головоломка США (2015)
 https://bk2-hls.kinokrad.co/hls/Golovolomka.2015.HDRip/playlist.m3u8
 #EXTINF:0,Реальная белка Канада США Южная Корея (2014)
