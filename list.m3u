@@ -1,10 +1,6 @@
 #EXTM3U
-#EXTINF:0,Реальная белка 2 Канада США Южная Корея (2017)
-https://edge16.streamguard.cc/sec/1559368397/32323038ab6d6ba1ea471d0e16c8ea5efe7b746f19ad8a71/ivs/26/11/394bcb2fd942/hls/tracks-3,5/index.m3u8
-#EXTINF:0,Гадкий я 3 США (2017)
-https://hls.kinokrad.co/hls/GaDkiy.Ya.3.2017.D.BDRip/playlist.m3u8
-#EXTINF:0,Кунг-фу Панда 3 США (2016)
-https://bk2-hls.kinokrad.co/hls/KungFu.Panda.2016.3.HDRip/playlist.m3u8
+#EXTINF:0,Гурвинек Волшебная игра Россия Бельгия Чехия (2019)
+https://edge32.streamguard.cc/sec/1559454859/323139353c3cc708e6a719d0076948becbd27cc99954c865/ivs/e3/76/6243cce8d515/hls/tracks-3,5/index.m3u8
 #EXTINF:0,Зверопой США (2017)
 https://hls.kinokrad.co/hls/Zveropoy.2016.BDRip/playlist.m3u8
 #EXTINF:0,Дикие предки Великобритания Франция (2018)
@@ -15,8 +11,6 @@ https://hls.kinokrad.co/hls/Gnome.Alone.2017.HDRip/playlist.m3u8
 https://hls.kinokrad.co/hls/Coco.2017.BDRip/playlist.m3u8
 #EXTINF:0,Капитан Подштанник Первый эпический фильм США (2017)
 https://hls.kinokrad.co/hls/Kapitan.Podshatniki.2017.P.HDRip/playlist.m3u8
-#EXTINF:0,Реальная белка 2 v2 Канада США Южная Корея (2017)
-https://hls.kinokrad.co/hls/RaeLLnaYa.BaLLka.2.2O17/playlist.m3u8
 #EXTINF:0,Смурфики США (2011)
 https://bk2-hls.kinokrad.co/hls/smurfiki-2011_HDRip/playlist.m3u8
 #EXTINF:0,Смурфики 2 США (2013)
@@ -273,6 +267,12 @@ https://bk2-hls.kinokrad.co/hls/Monstri.na.Kanikulah.2015.HDRip/playlist.m3u8
 http://hls.kinoplayer.co/hls/Ferdinand.2017.BDRip/playlist.m3u8
 #EXTINF:0,Монстры на каникулах 3 Море зовёт США (2018)
 https://hls.kinokrad.co/hls/Hotel.Transylvania.3.HDRip/playlist.m3u8
+#EXTINF:0,Гадкий я 3 США (2017)
+https://hls.kinokrad.co/hls/GaDkiy.Ya.3.2017.D.BDRip/playlist.m3u8
+#EXTINF:0,Кунг-фу Панда 3 США (2016)
+https://bk2-hls.kinokrad.co/hls/KungFu.Panda.2016.3.HDRip/playlist.m3u8
+#EXTINF:0,Реальная белка 2 Канада США Южная Корея (2017)
+https://hls.kinokrad.co/hls/RaeLLnaYa.BaLLka.2.2O17/playlist.m3u8
 #EXTINF:0,Головоломка США (2015)
 https://bk2-hls.kinokrad.co/hls/Golovolomka.2015.HDRip/playlist.m3u8
 #EXTINF:0,Реальная белка Канада США Южная Корея (2014)
