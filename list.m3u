@@ -1,16 +1,10 @@
 #EXTM3U
-#EXTINF:0,Капитан Подштанник Первый эпический фильм США (2017)
-https://edge22.streamguard.cc/sec/1560146169/353938386c8d0e22ce8e12826b8ab22dd3f5bc464bd9d36f/ivs/78/92/9219cb6cd966/hls/tracks-3,5/index.m3u8
-#EXTINF:0,Тайна Коко США (2017)
-https://hls.kinokrad.co/hls/Coco.2017.BDRip/playlist.m3u8
+#EXTINF:0,Снежные гонки Канада (2019)
+https://edge23.streamguard.cc/sec/1560232399/333138323f6c71733bf6c294d92c861b82f8c39fd5cd17d8/ivs/5b/c1/4e2e88f04633/hls/tracks-3,5/index.m3u8
 #EXTINF:0,Зверопой США (2017)
 https://hls.kinokrad.co/hls/Zveropoy.2016.BDRip/playlist.m3u8
 #EXTINF:0,Дикие предки Великобритания Франция (2018)
 https://hls.kinokrad.co/hls/Early.Man.2018.BDRip/playlist.m3u8
-#EXTINF:0,Гномы в доме Канада (2018)
-https://hls.kinokrad.co/hls/Gnome.Alone.2017.HDRip/playlist.m3u8
-#EXTINF:0,Капитан Подштанник Первый эпический фильм США v2 (2017)
-https://hls.kinokrad.co/hls/Kapitan.Podshatniki.2017.P.HDRip/playlist.m3u8
 #EXTINF:0,Смурфики США (2011)
 https://bk2-hls.kinokrad.co/hls/smurfiki-2011_HDRip/playlist.m3u8
 #EXTINF:0,Смурфики 2 США (2013)
@@ -25,10 +19,8 @@ https://bk2-hls.kinokrad.co/hls/Hrabroe.Serdce.2013.D.HDRip.1400MB/playlist.m3u8
 https://hls.kinokrad.co/hls/Hrabroe.serdtse.Zagovor.v.korolevstve.2017.BDRip/playlist.m3u8
 #EXTINF:0,Кубо. Легенда о самурае США (2016)
 https://bk2-hls.kinokrad.co/hls/Kubo.Legenda.o.Samurae.2016.HDRip/playlist.m3u8
-#EXTINF:0,Снежные гонки Канада (2019)
+#EXTINF:0,Снежные гонки v2 Канада (2019)
 https://hls.kinokrad.co/hls/Racetime.2018.BDRip/playlist.m3u8
-#EXTINF:0,Украденная принцесса Украина(2018)
-https://hls.kinokrad.co/hls/The.Stolen.Princess.2018.P.HDRip/playlist.m3u8
 #EXTINF:0,Лови волну 2 v2 США (2017)
 https://hls.kinokrad.co/hls/Lovi.Volnu.2.2017.HDRip/playlist.m3u8
 #EXTINF:0,Любопытный Джордж 3 США (2015)
@@ -281,6 +273,14 @@ https://hls.kinokrad.co/hls/realnaya-belka-2014hd/playlist.m3u8
 https://bk2-hls.kinokrad.co/hls/Gadkiy.Ya.HDRip/playlist.m3u8
 #EXTINF:0,Гадкий я 2 США (2013)
 https://bk2-hls.kinokrad.co/hls/Gadkiy.Ya.2.HDRip/playlist.m3u8
+#EXTINF:0,Тайна Коко США (2017)
+https://hls.kinokrad.co/hls/Coco.2017.BDRip/playlist.m3u8
+#EXTINF:0,Гномы в доме Канада (2018)
+https://hls.kinokrad.co/hls/Gnome.Alone.2017.HDRip/playlist.m3u8
+#EXTINF:0,Капитан Подштанник Первый эпический фильм США (2017)
+https://hls.kinokrad.co/hls/Kapitan.Podshatniki.2017.P.HDRip/playlist.m3u8
+#EXTINF:0,Украденная принцесса Украина(2018)
+https://hls.kinokrad.co/hls/The.Stolen.Princess.2018.P.HDRip/playlist.m3u8
 #EXTINF:0,Лови волну США (2007)
 https://bk2-hls.kinokrad.co/hls/lovi-volnu-2007_HDRip/playlist.m3u8
 #EXTINF:0,Кунг-фу Панда США (2008)
