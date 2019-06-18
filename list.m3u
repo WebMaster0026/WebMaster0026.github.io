@@ -1,11 +1,9 @@
 #EXTM3U
-#EXTINF:0,Тэд-путешественник и тайна царя Мидаса Испания (2017)
-https://edge34.streamguard.cc/sec/1560837002/3236393789eee8a6bdf341e2fba45f958c384058aef646ba/ivs/a6/e8/08543ff0ed60/hls/tracks-3,5/index.m3u8
+#EXTINF:0,Дикие предки Великобритания Франция (2018)
+https://edge17.streamguard.cc/sec/1560923152/34363031d5753f9de14ce54737867191ab928144a6b2ec7a/ivs/c3/6a/c4e16be3b2c2/hls/tracks-3,5/index.m3u8
 #EXTINF:0,Последняя битва Россия (2017)
 https://video.inmedis.ru/STORAGE03/clip_bitrates/zTJ9qpFgiazLUz7LevfnIhQRbHfLdCuN.mp4
-#EXTINF:0,Зверопой США (2017)
-https://hls.kinokrad.co/hls/Zveropoy.2016.BDRip/playlist.m3u8
-#EXTINF:0,Дикие предки Великобритания Франция (2018)
+#EXTINF:0,Дикие предки v2 Великобритания Франция (2018)
 https://hls.kinokrad.co/hls/Early.Man.2018.BDRip/playlist.m3u8
 #EXTINF:0,Смурфики США (2011)
 https://bk2-hls.kinokrad.co/hls/smurfiki-2011_HDRip/playlist.m3u8
@@ -15,20 +13,12 @@ https://hls.kinokrad.co/hls/Smurfuki2.2013.D.HDRip/playlist.m3u8
 https://hls.kinokrad.co/hls/Smurfiki.zateryanaya.Derevnya.2017.P.HDRip/playlist.m3u8
 #EXTINF:0,Ковёр-самолёт Дания (2019)
 https://hls.kinokrad.co/hls/Hodja.fra.Pjort.2018.BDRip/playlist.m3u8
-#EXTINF:0,Храброе сердце Германия (2014)
-https://bk2-hls.kinokrad.co/hls/Hrabroe.Serdce.2013.D.HDRip.1400MB/playlist.m3u8
-#EXTINF:0,Храброе сердце 2 Германия (2018)
-https://hls.kinokrad.co/hls/Hrabroe.serdtse.Zagovor.v.korolevstve.2017.BDRip/playlist.m3u8
 #EXTINF:0,Кубо. Легенда о самурае США (2016)
 https://bk2-hls.kinokrad.co/hls/Kubo.Legenda.o.Samurae.2016.HDRip/playlist.m3u8
-#EXTINF:0,Лови волну 2 США (2017)
-https://hls.kinokrad.co/hls/Lovi.Volnu.2.2017.HDRip/playlist.m3u8
 #EXTINF:0,Любопытный Джордж 3 США (2015)
 https://bk2-hls.kinokrad.co/hls/Lubopitniy.Djordj.3.2015.HDRip/playlist.m3u8
 #EXTINF:0,Гамба в 3D Япония (2016)
 https://bk2-hls.kinokrad.co/hls/Gamba.3D.2015.HDRip/playlist.m3u8
-#EXTINF:0,Хранитель Луны v2 Франция (2014)
-https://bk2-hls.kinokrad.co/hls/Hraniteli.Luni.2014.HDRip/playlist.m3u8
 #EXTINF:0,Принцесса-лягушка США Китай (2016)
 https://hls.kinokrad.co/hls/Princessa.Lyagushka.2013.HDRip/playlist.m3u8
 #EXTINF:0,Принцесса-лягушка 2 Тайна волшебной комнаты США Китай (2017)
@@ -49,8 +39,6 @@ https://hls.kinokrad.co/hls/neveroyatnaya-istoriya-o-gigantskoy-grushe.2O18.D.Hd
 https://hls.kinokrad.co/hls/Zoo.Wars.2018.Pk.HDRip/playlist.m3u8
 #EXTINF:0,Махнем на Луну! Перу (2018)
 https://hls.kinokrad.co/hls/Condorito.La.Pelicula.2017.HDRip/playlist.m3u8
-#EXTINF:0,Тэд-путешественник и тайна царя Мидаса v2 Испания (2017)
-https://hls.kinokrad.co/hls/Ted.Jonse.2.2O17.D.BDRip/playlist.m3u8
 #EXTINF:0,Сезон охоты 4 Страшно глупо США (2015)
 https://bk-hls.kinokrad.co/hls/Sezon.Ohoti.4.2015.HDRip/playlist.m3u8
 #EXTINF:0,Angry Birds в кино Финляндия США (2016)
@@ -283,6 +271,18 @@ https://hls.kinokrad.co/hls/Kapitan.Podshatniki.2017.P.HDRip/playlist.m3u8
 https://hls.kinokrad.co/hls/The.Stolen.Princess.2018.P.HDRip/playlist.m3u8
 #EXTINF:0,Снежные гонки Канада (2019)
 https://hls.kinokrad.co/hls/Racetime.2018.BDRip/playlist.m3u8
+#EXTINF:0,Зверопой США (2017)
+https://hls.kinokrad.co/hls/Zveropoy.2016.BDRip/playlist.m3u8
+#EXTINF:0,Лови волну 2 США (2017)
+https://hls.kinokrad.co/hls/Lovi.Volnu.2.2017.HDRip/playlist.m3u8
+v#EXTINF:0,Хранитель Луны v2 Франция (2014)
+https://bk2-hls.kinokrad.co/hls/Hraniteli.Luni.2014.HDRip/playlist.m3u8
+#EXTINF:0,Тэд-путешественник и тайна царя Мидаса Испания (2017)
+https://hls.kinokrad.co/hls/Ted.Jonse.2.2O17.D.BDRip/playlist.m3u8
+#EXTINF:0,Храброе сердце Германия (2014)
+https://bk2-hls.kinokrad.co/hls/Hrabroe.Serdce.2013.D.HDRip.1400MB/playlist.m3u8
+#EXTINF:0,Храброе сердце 2 Германия (2018)
+https://hls.kinokrad.co/hls/Hrabroe.serdtse.Zagovor.v.korolevstve.2017.BDRip/playlist.m3u8
 #EXTINF:0,Лови волну США (2007)
 https://bk2-hls.kinokrad.co/hls/lovi-volnu-2007_HDRip/playlist.m3u8
 #EXTINF:0,Кунг-фу Панда США (2008)
