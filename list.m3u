@@ -1,11 +1,9 @@
 #EXTM3U
-#EXTINF:0,Дикие предки Великобритания Франция (2018)
-https://edge17.streamguard.cc/sec/1560923152/34363031d5753f9de14ce54737867191ab928144a6b2ec7a/ivs/c3/6a/c4e16be3b2c2/hls/tracks-3,5/index.m3u8
+#EXTINF:0,Смурфики США (2011)
+https://edge14.streamguard.cc/sec/1561008914/383835343e89b33d5574d42b7ea5ac89ae17fc2add973dd5/ivs/f2/3c/8936608fbf86.mp4/hls/tracks-2,4/index.m3u8
 #EXTINF:0,Последняя битва Россия (2017)
 https://video.inmedis.ru/STORAGE03/clip_bitrates/zTJ9qpFgiazLUz7LevfnIhQRbHfLdCuN.mp4
-#EXTINF:0,Дикие предки v2 Великобритания Франция (2018)
-https://hls.kinokrad.co/hls/Early.Man.2018.BDRip/playlist.m3u8
-#EXTINF:0,Смурфики США (2011)
+#EXTINF:0,Смурфики v2 США (2011)
 https://bk2-hls.kinokrad.co/hls/smurfiki-2011_HDRip/playlist.m3u8
 #EXTINF:0,Смурфики 2 США (2013)
 https://hls.kinokrad.co/hls/Smurfuki2.2013.D.HDRip/playlist.m3u8
@@ -275,8 +273,10 @@ https://hls.kinokrad.co/hls/Racetime.2018.BDRip/playlist.m3u8
 https://hls.kinokrad.co/hls/Zveropoy.2016.BDRip/playlist.m3u8
 #EXTINF:0,Лови волну 2 США (2017)
 https://hls.kinokrad.co/hls/Lovi.Volnu.2.2017.HDRip/playlist.m3u8
-v#EXTINF:0,Хранитель Луны v2 Франция (2014)
+v#EXTINF:0,Хранитель Луны Франция (2014)
 https://bk2-hls.kinokrad.co/hls/Hraniteli.Luni.2014.HDRip/playlist.m3u8
+#EXTINF:0,Дикие предки v2 Великобритания Франция (2018)
+https://hls.kinokrad.co/hls/Early.Man.2018.BDRip/playlist.m3u8
 #EXTINF:0,Тэд-путешественник и тайна царя Мидаса Испания (2017)
 https://hls.kinokrad.co/hls/Ted.Jonse.2.2O17.D.BDRip/playlist.m3u8
 #EXTINF:0,Храброе сердце Германия (2014)
