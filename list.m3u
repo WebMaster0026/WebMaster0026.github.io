@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:0,Дозор джунглей Франция (2017)
-https://edge09.streamguard.cc/sec/1561096309/39303039d863e438f6a74d13b306a31d96336efa791cd607/ivs/4f/e9/e18a107e4a5d/hls/tracks-2,5/index.m3u8
+#EXTINF:0,Кубо. Легенда о самурае США (2016)
+https://edge14.streamguard.cc/sec/1561181547/31343335d75cab36f957b9b202e2f642e2702515f5877228/ivs/9d/fc/b9a3dac821dd/hls/tracks-3,5/index.m3u8
 #EXTINF:0,Последняя битва Россия (2017)
 https://video.inmedis.ru/STORAGE03/clip_bitrates/zTJ9qpFgiazLUz7LevfnIhQRbHfLdCuN.mp4
 #EXTINF:0,Смурфики v2 США (2011)
@@ -11,7 +11,7 @@ https://hls.kinokrad.co/hls/Smurfuki2.2013.D.HDRip/playlist.m3u8
 https://hls.kinokrad.co/hls/Smurfiki.zateryanaya.Derevnya.2017.P.HDRip/playlist.m3u8
 #EXTINF:0,Ковёр-самолёт Дания (2019)
 https://hls.kinokrad.co/hls/Hodja.fra.Pjort.2018.BDRip/playlist.m3u8
-#EXTINF:0,Кубо. Легенда о самурае США (2016)
+#EXTINF:0,Кубо. Легенда о самурае v2 США (2016)
 https://bk2-hls.kinokrad.co/hls/Kubo.Legenda.o.Samurae.2016.HDRip/playlist.m3u8
 #EXTINF:0,Любопытный Джордж 3 США (2015)
 https://bk2-hls.kinokrad.co/hls/Lubopitniy.Djordj.3.2015.HDRip/playlist.m3u8
@@ -47,8 +47,6 @@ https://hls.kinokrad.co/hls/spark-geroy-vselennoy.2016/playlist.m3u8
 https://bk2-hls.kinokrad.co/hls/Geroy.Cvetnogo.Goroda.HDRip/playlist.m3u8
 #EXTINF:0,Большой кошачий побег Китай (2018)
 https://hls.kinokrad.co/hls/bolshoy-koshachiy-pobeg2018.HDRip/playlist.m3u8
-#EXTINF:0,Дозор джунглей v2 Франция (2017)
-https://hls.kinokrad.co/hls/D0z0P.juHgL3j.2O17.D.HDRip/playlist.m3u8
 #EXTINF:0,Лунный флаг Испания (2016)
 https://bk2-hls.kinokrad.co/hls/Lunniy.Flag.2016.HDRip/playlist.m3u8
 #EXTINF:0,Приключения лисенка Китай (2014)
@@ -289,6 +287,8 @@ https://bk2-hls.kinokrad.co/hls/lovi-volnu-2007_HDRip/playlist.m3u8
 https://bk2-hls.kinokrad.co/hls/kungfy_panda.BDRip/playlist.m3u8
 #EXTINF:0,Кунг-фу Панда 2 США (2011)
 https://bk2-hls.kinokrad.co/hls/kung-fu-panda-2-2011.hd/playlist.m3u8
+#EXTINF:0,Дозор джунглей Франция (2017)
+https://hls.kinokrad.co/hls/D0z0P.juHgL3j.2O17.D.HDRip/playlist.m3u8
 #EXTINF:0,Золушка и тайный принц США (2019)
 https://hls.kinokrad.co/hls/Cinderella.and.the.Secret.Prince2019HDRip/playlist.m3u8
 #EXTINF:0,Распрекрасный принц Канада (2018)
