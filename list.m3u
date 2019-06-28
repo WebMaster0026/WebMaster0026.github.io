@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:0,Звериный отряд Италия (2015)
+https://vs0.cdnlast.com/s/5c6c1f41ea4c3d9f977180b6efd5543a6ab90a/hd_30/Zveriniy.Otryad.2014.720p_720.mp4
+#EXTINF:0,Гамба в 3D Япония (2016)
+https://vs0.cdnlast.com/s/5c6c1f41ea4c3d9f977180b6efd5543a6ab90a/hd_30/Gamba.Ganba.to.nakamatachi.D.LINE.2015.WEBDL.1080p_720.mp4
 #EXTINF:0,Пчёлка Майя и Кубок мёда Германия Австралия (2018)
 https://vs1.cdnlast.com/s/5ca0dcb2b4aab0f639718cdba2ae0d7276e402/hd_30/MayatheBeeTheHoneyGamesBDRip1080p_480.mp4
 #EXTINF:0,Стань легендой! Бигфут Младший Франция Бельгия (2017)
@@ -17,7 +21,7 @@ https://hls.kinokrad.co/hls/Smurfiki.zateryanaya.Derevnya.2017.P.HDRip/playlist.
 https://hls.kinokrad.co/hls/Hodja.fra.Pjort.2018.BDRip/playlist.m3u8
 #EXTINF:0,Любопытный Джордж 3 США (2015)
 https://bk2-hls.kinokrad.co/hls/Lubopitniy.Djordj.3.2015.HDRip/playlist.m3u8
-#EXTINF:0,Гамба в 3D Япония (2016)
+#EXTINF:0,Гамба в 3D v2 Япония (2016)
 https://bk2-hls.kinokrad.co/hls/Gamba.3D.2015.HDRip/playlist.m3u8
 #EXTINF:0,Принцесса-лягушка США Китай (2016)
 https://hls.kinokrad.co/hls/Princessa.Lyagushka.2013.HDRip/playlist.m3u8
@@ -107,7 +111,7 @@ http://185.38.12.46/sec/1557255410/38323134e82f17e303e2eafa773b4379115d23f825df2
 https://hls.kinokrad.co/hls/Alfa.i.Omega.Korolevstvo.2017.HDRip/playlist.m3u8
 #EXTINF:0,Снежная битва Канада (2015)
 https://hls.kinokrad.co/hls/Snejnaya.Bitva.2015.HDRip/playlist.m3u8
-#EXTINF:0,Звериный отряд Италия (2015)
+#EXTINF:0,Звериный отряд v2 Италия (2015)
 https://hls.kinokrad.co/hls/Zveriniy.Otryad.2014.HDRip/playlist.m3u8
 #EXTINF:0,Механика сердца Франция Бельгия (2013)
 https://bk2-hls.kinokrad.co/hls/Mehanika.Serdtsa.2013.P.HDRip/playlist.m3u8
