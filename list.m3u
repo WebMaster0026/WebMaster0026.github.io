@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:0,Невероятный Блинки Билл Австралия США (2016)
+https://vs1.cdnlast.com/s/5c6ee7bdc9038f5b5671e68daf9b523a14be18/hd_30/Blinky.Bill.the.Movie.2015.BDRip.D.Licens.1080p_720.mp4
+#EXTINF:0,Тайная жизнь насекомых Франция Люксембург (2018)
+https://vs1.cdnlast.com/s/5c6ee7bdc9038f5b5671e68daf9b523a14be18/hd_05/Tayna.zhyzn.nasikomish.2O18.D.WEB-DL.1O8Op_720.mp4
+#EXTINF:0,Лягушонок Риббит / Мистер Квак Малайзия (2018)
+https://vs1.cdnlast.com/s/5c6ee7bdc9038f5b5671e68daf9b523a14be18/hd_30/Ribbit.2O14.D.BDRip.72Op_720.mp4
+#EXTINF:0,Любопытный Джордж 3 США (2015)
+https://vs0.cdnlast.com/s/5c6ee7bdc9038f5b5671e68daf9b523a14be18/hd_30/Lubopytnyj.Dzhordzh.3.2015.D.HDRp_720.mp4
 #EXTINF:0,Принцесса-лягушка США Китай (2016)
 https://vs1.cdnlast.com/s/5c810e08756e3e2a7e719dee4c14362a35d328/sd_sent_02/Frog.Kingdom.2013.WEBDL-Rip_480.mp4
 #EXTINF:0,Принцесса-лягушка 2 Тайна волшебной комнаты США Китай (2017)
@@ -31,7 +39,7 @@ https://hls.kinokrad.co/hls/TheLadybug.2O18.D.HDRip/playlist.m3u8
 https://hls.kinokrad.co/hls/Next.Gen.2018.HDRip/playlist.m3u8
 #EXTINF:0,Король обезьян Маленький большой герой Китай США (2018)
 https://hls.kinokrad.co/hls/melki1.bolishoii.geroj.2018.d.HDRip/playlist.m3u8
-#EXTINF:0,Тайная жизнь насекомых Франция Люксембург (2018)
+#EXTINF:0,Тайная жизнь насекомых v2 Франция Люксембург (2018)
 https://hls.kinokrad.co/hls/Tayna.zhyzn.nasikomish.2O18.D.HDRip/playlist.m3u8
 #EXTINF:0,Невероятная история о гигантской груше Дания (2018)
 https://hls.kinokrad.co/hls/neveroyatnaya-istoriya-o-gigantskoy-grushe.2O18.D.HdRip/playlist.m3u8
@@ -77,7 +85,7 @@ https://hls.kinokrad.co/hls/K0L06aHga.2O17.O.HDRip/playlist.m3u8
 https://hls.kinokrad.co/hls/The.Emoji.Movie.2017.BDRip/playlist.m3u8
 #EXTINF:0,Кролик Питер Великобритания Австралия США (2018)
 https://hls.kinokrad.co/hls/krolik-piter.2018.D.HdRip/playlist.m3u8
-#EXTINF:0,Невероятный Блинки Билл Австралия США (2016)
+#EXTINF:0,Невероятный Блинки Билл v2 Австралия США (2016)
 https://bk2-hls.kinokrad.co/hls/Nevoroyatniye.Blinki.bill.2016.HDRip/playlist.m3u8
 #EXTINF:0,Элвин и бурундуки США (2007)
 https://bk2-hls.kinokrad.co/hls/Alvin_and_the_Chipmunks.2007.hd/playlist.m3u8
@@ -115,7 +123,7 @@ https://bk2-hls.kinokrad.co/hls/Mehanika.Serdtsa.2013.P.HDRip/playlist.m3u8
 https://hls.kinokrad.co/hls/Volshebnay.Strana.HDRip.2014/playlist.m3u8
 #EXTINF:0,Петух из Сан-Виктор Канада (2014)
 https://bk2-hls.kinokrad.co/hls/Petuh.iz.sanmorin.HDRip/playlist.m3u8
-#EXTINF:0,Лягушонок Риббит / Мистер Квак Малайзия (2018)
+#EXTINF:0,Лягушонок Риббит v2 / Мистер Квак Малайзия (2018)
 https://bk2-hls.kinokrad.co/hls/Mister.Kvak.HDRip/playlist.m3u8
 #EXTINF:0,Суперкоманда Аргентина Испания Индия США (2015)
 https://hls.kinokrad.co/hls/Super.Komanda.HDRip/playlist.m3u8
