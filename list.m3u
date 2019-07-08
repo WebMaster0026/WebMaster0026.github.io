@@ -1,6 +1,12 @@
 #EXTM3U
+#EXTINF:0,Савва. Сердце воина Россия (2015)
+https://vs2.cdnlast.com/s/af450d6d3c7940878e6e9eae8c59fa04/hd_30/Savka.2O15_720.mp4
 #EXTINF:0,Ковёр-самолёт Дания (2019)
 https://vs0.cdnlast.com/s/30f396ecda0c95220d0447bd240d37b3/hd_30/Hodja.fra.Pjort.AKA.Up.and.Away.2018.BDRip.1080p_720.mp4
+#EXTINF:0,Полярные приключения Китай (2016)
+https://vs1.cdnlast.com/s/af450d6d3c7940878e6e9eae8c59fa04/hd_30/Polar.Adventure.2015.D.Licens.WEBDL.720p_720.mp4
+#EXTINF:0,Где дракон? Гонконг Китай (2016)
+https://vs0.cdnlast.com/s/af450d6d3c7940878e6e9eae8c59fa04/hd_sent_02/Gde.drakon.2O15.D.WEBL.1080p_720.mp4
 #EXTINF:0,Невероятный Блинки Билл Австралия США (2016)
 https://vs1.cdnlast.com/s/5c6ee7bdc9038f5b5671e68daf9b523a14be18/hd_30/Blinky.Bill.the.Movie.2015.BDRip.D.Licens.1080p_720.mp4
 #EXTINF:0,Тайная жизнь насекомых Франция Люксембург (2018)
@@ -97,7 +103,7 @@ https://bk2-hls.kinokrad.co/hls/Alvin_and_the_Chipmunks2009hd/playlist.m3u8
 https://bk2-hls.kinokrad.co/hls/Elvin.I.Burunduki.3.2011.RUS.BDRip.XviD.AC3.-HQ-ViDEO/playlist.m3u8
 #EXTINF:0,Элвин и бурундуки 4 Грандиозное бурундуключение США (2016)
 https://bk2-hls.kinokrad.co/hls/Elvin.i.Burunduki.2015.HDRip/playlist.m3u8
-#EXTINF:0,Савва. Сердце воина Россия (2015)
+#EXTINF:0,Савва. Сердце воина v2 Россия (2015)
 https://hls.kinokrad.co/hls/Savva.2015.HDRip/playlist.m3u8
 #EXTINF:0,Альфа и Омега Клыкастая братва США Индия (2010)
 https://bk2-hls.kinokrad.co/hls/Alfa.Omega.Bratva.HDRip/playlist.m3u8
@@ -161,7 +167,7 @@ https://hls.kinokrad.co/hls/All.I.Want.for.Christmas.Is.You.2017.P.HDRip/playlis
 https://bk2-hls.kinokrad.co/hls/rozhdestvenskaya-istoriya-2001.dvd/playlist.m3u8
 #EXTINF:0,Медведь Йоги США Новая Зеландия (2010)
 https://bk2-hls.kinokrad.co/hls/Medved.Jogi.2010.D.BDRip/playlist.m3u8
-#EXTINF:0,Где дракон? Гонконг Китай (2016)
+#EXTINF:0,Где дракон? v2 Гонконг Китай (2016)
 https://bk2-hls.kinokrad.co/hls/Gde.Drakon.2016.HDRip/playlist.m3u8
 #EXTINF:0,Дораэмон Останься со мной Япония США (2014)
 https://bk2-hls.kinokrad.co/hls/Doraemon.Ostansya.so.Mnoy.2014.HDRip/playlist.m3u8
@@ -179,7 +185,7 @@ https://bk2-hls.kinokrad.co/hls/Po4taljon.Pet.2014.D.HDRip/playlist.m3u8
 https://hls.kinokrad.co/hls/Mumi.Trolli.i.zimnyaya.skazka2017.D.HDRip/playlist.m3u8
 #EXTINF:0,Снупи и мелочь пузатая в кино США (2015)
 https://hls.kinokrad.co/hls/Snoopi.i.Meloch.Puzataya.2015.HDRip/playlist.m3u8
-#EXTINF:0,Полярные приключения Китай (2016)
+#EXTINF:0,Полярные приключения v2 Китай (2016)
 https://hls.kinokrad.co/hls/Polayrnie.Priklucheniya.2016.HDRip/playlist.m3u8
 #EXTINF:0,Невероятная тайна Лулу Франция Бельгия Венгрия (2013)
 https://bk2-hls.kinokrad.co/hls/Neveroyatnaya.Taina.Lulu.2013.HDRip/playlist.m3u8
