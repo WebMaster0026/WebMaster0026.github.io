@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0,Лунный флаг Испания (2016)
+https://vs1.cdnlast.com/s/5c37b92d2164a411147184a0393d492e242700/hd_sent_02/LuNNiy.FLaGG.2O16.D.BDRip.72OP_720.mp4
 #EXTINF:0,Савва. Сердце воина Россия (2015)
 https://vs2.cdnlast.com/s/5cac3be66af3382490715769af16136b25a239/hd_30/Savka.2O15_720.mp4
 #EXTINF:0,Ковёр-самолёт Дания (2019)
@@ -51,7 +53,7 @@ https://hls.kinokrad.co/hls/spark-geroy-vselennoy.2016/playlist.m3u8
 https://bk2-hls.kinokrad.co/hls/Geroy.Cvetnogo.Goroda.HDRip/playlist.m3u8
 #EXTINF:0,Большой кошачий побег v2 Китай (2018)
 https://hls.kinokrad.co/hls/bolshoy-koshachiy-pobeg2018.HDRip/playlist.m3u8
-#EXTINF:0,Лунный флаг Испания (2016)
+#EXTINF:0,Лунный флаг v2 Испания (2016)
 https://bk2-hls.kinokrad.co/hls/Lunniy.Flag.2016.HDRip/playlist.m3u8
 #EXTINF:0,Приключения лисенка v2 Китай (2014)
 https://hls.kinokrad.co/hls/Priklucheniya.Lisenka.2014.HDRip/playlist.m3u8
