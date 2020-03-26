@@ -99,6 +99,8 @@ https://video.inmedis.ru/STORAGE13/clip_bitrates/TRRTOw5WulNm5hnB8RjdC6VYOUtydcu
 https://zaycevfm.cdnvideo.ru/ZaycevFM_pop_256.mp3
 #EXTINF:0,ROCK
 https://zaycevfm.cdnvideo.ru/ZaycevFM_rock_256.mp3
+#EXTINF:0,POPRUS
+https://zaycevfm.cdnvideo.ru/ZaycevFM_rus_256.mp3
 #EXTINF:0,DISCO
 https://zaycevfm.cdnvideo.ru/ZaycevFM_disco_256.mp3
 #EXTINF:0,CLUB
@@ -107,8 +109,6 @@ https://zaycevfm.cdnvideo.ru/ZaycevFM_club_256.mp3
 https://zaycevfm.cdnvideo.ru/ZaycevFM_rnb_256.mp3
 #EXTINF:0,SHANSON
 https://zaycevfm.cdnvideo.ru/ZaycevFM_shanson_256.mp3
-#EXTINF:0,POPRUS
-https://zaycevfm.cdnvideo.ru/ZaycevFM_rus_256.mp3
 #EXTINF:0,RELAX
 https://zaycevfm.cdnvideo.ru/ZaycevFM_relax_256.mp3
 #EXTINF:0,ZAYCHATA
